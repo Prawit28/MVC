@@ -1,0 +1,267 @@
+[
+    {
+        "code": "123456",
+        "Food Type": "fresh",
+        "Expiration Date": "15/08/2025"
+    },
+    {
+        "code": "234567",
+        "Food Type": "pickled",
+        "Expiration Date": "12/12/2024"
+    },
+    {
+        "code": "345678",
+        "Food Type": "canned",
+        "Expiration Date": "31/12/2025"
+    },
+    {
+        "code": "486540",
+        "Food Type": "fresh",
+        "Expiration Date": "31/01/2029"
+    },
+    {
+        "code": "524559",
+        "Food Type": "fresh",
+        "Expiration Date": "09/03/2028"
+    },
+    {
+        "code": "361040",
+        "Food Type": "fresh",
+        "Expiration Date": "30/05/2015"
+    },
+    {
+        "code": "275182",
+        "Food Type": "fresh",
+        "Expiration Date": "04/06/2017"
+    },
+    {
+        "code": "588753",
+        "Food Type": "fresh",
+        "Expiration Date": "11/02/2018"
+    },
+    {
+        "code": "208567",
+        "Food Type": "fresh",
+        "Expiration Date": "23/04/2024"
+    },
+    {
+        "code": "215341",
+        "Food Type": "fresh",
+        "Expiration Date": "20/07/2028"
+    },
+    {
+        "code": "355353",
+        "Food Type": "fresh",
+        "Expiration Date": "01/05/2019"
+    },
+    {
+        "code": "539011",
+        "Food Type": "fresh",
+        "Expiration Date": "16/10/2019"
+    },
+    {
+        "code": "686141",
+        "Food Type": "fresh",
+        "Expiration Date": "13/04/2028"
+    },
+    {
+        "code": "811431",
+        "Food Type": "pickled",
+        "Expiration Date": "17/04/2016"
+    },
+    {
+        "code": "826886",
+        "Food Type": "pickled",
+        "Expiration Date": "25/07/2029"
+    },
+    {
+        "code": "730000",
+        "Food Type": "pickled",
+        "Expiration Date": "17/03/2018"
+    },
+    {
+        "code": "991248",
+        "Food Type": "pickled",
+        "Expiration Date": "09/04/2016"
+    },
+    {
+        "code": "509348",
+        "Food Type": "pickled",
+        "Expiration Date": "14/11/2023"
+    },
+    {
+        "code": "514667",
+        "Food Type": "pickled",
+        "Expiration Date": "29/05/2015"
+    },
+    {
+        "code": "149918",
+        "Food Type": "pickled",
+        "Expiration Date": "12/11/2018"
+    },
+    {
+        "code": "646747",
+        "Food Type": "pickled",
+        "Expiration Date": "26/08/2024"
+    },
+    {
+        "code": "636365",
+        "Food Type": "pickled",
+        "Expiration Date": "15/12/2026"
+    },
+    {
+        "code": "553697",
+        "Food Type": "pickled",
+        "Expiration Date": "26/05/2021"
+    },
+    {
+        "code": "622504",
+        "Food Type": "canned",
+        "Expiration Date": "26/09/2026"
+    },
+    {
+        "code": "586593",
+        "Food Type": "canned",
+        "Expiration Date": "16/03/2024"
+    },
+    {
+        "code": "801309",
+        "Food Type": "canned",
+        "Expiration Date": "07/01/2021"
+    },
+    {
+        "code": "641800",
+        "Food Type": "canned",
+        "Expiration Date": "12/07/2022"
+    },
+    {
+        "code": "680243",
+        "Food Type": "canned",
+        "Expiration Date": "02/01/2024"
+    },
+    {
+        "code": "226231",
+        "Food Type": "canned",
+        "Expiration Date": "31/05/2018"
+    },
+    {
+        "code": "433091",
+        "Food Type": "canned",
+        "Expiration Date": "01/08/2019"
+    },
+    {
+        "code": "799770",
+        "Food Type": "canned",
+        "Expiration Date": "25/01/2024"
+    },
+    {
+        "code": "191949",
+        "Food Type": "canned",
+        "Expiration Date": "29/07/2024"
+    },
+    {
+        "code": "723453",
+        "Food Type": "canned",
+        "Expiration Date": "01/02/2017"
+    },
+    {
+        "code": "607136",
+        "Food Type": "pickled",
+        "Expiration Date": "18/06/2015"
+    },
+    {
+        "code": "562658",
+        "Food Type": "canned",
+        "Expiration Date": "09/12/2020"
+    },
+    {
+        "code": "166585",
+        "Food Type": "canned",
+        "Expiration Date": "08/09/2016"
+    },
+    {
+        "code": "336080",
+        "Food Type": "fresh",
+        "Expiration Date": "09/04/2025"
+    },
+    {
+        "code": "495222",
+        "Food Type": "fresh",
+        "Expiration Date": "05/02/2016"
+    },
+    {
+        "code": "281271",
+        "Food Type": "fresh",
+        "Expiration Date": "23/12/2017"
+    },
+    {
+        "code": "471868",
+        "Food Type": "canned",
+        "Expiration Date": "30/12/2020"
+    },
+    {
+        "code": "537437",
+        "Food Type": "fresh",
+        "Expiration Date": "02/05/2030"
+    },
+    {
+        "code": "185727",
+        "Food Type": "canned",
+        "Expiration Date": "23/01/2026"
+    },
+    {
+        "code": "954475",
+        "Food Type": "canned",
+        "Expiration Date": "22/01/2024"
+    },
+    {
+        "code": "756828",
+        "Food Type": "canned",
+        "Expiration Date": "06/09/2016"
+    },
+    {
+        "code": "638542",
+        "Food Type": "fresh",
+        "Expiration Date": "07/07/2024"
+    },
+    {
+        "code": "719715",
+        "Food Type": "canned",
+        "Expiration Date": "13/04/2029"
+    },
+    {
+        "code": "618965",
+        "Food Type": "fresh",
+        "Expiration Date": "22/08/2017"
+    },
+    {
+        "code": "351910",
+        "Food Type": "canned",
+        "Expiration Date": "15/01/2022"
+    },
+    {
+        "code": "249666",
+        "Food Type": "pickled",
+        "Expiration Date": "11/06/2021"
+    },
+    {
+        "code": "208367",
+        "Food Type": "canned",
+        "Expiration Date": "29/11/2026"
+    },
+    {
+        "code": "556203",
+        "Food Type": "canned",
+        "Expiration Date": "08/12/2027"
+    },
+    {
+        "code": "676761",
+        "Food Type": "canned",
+        "Expiration Date": "26/11/2021"
+    },
+    {
+        "code": "824577",
+        "Food Type": "fresh",
+        "Expiration Date": "21/10/2026"
+    }
+]
